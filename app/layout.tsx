@@ -11,11 +11,11 @@ export const metadata: Metadata = {
   },
   description: "Co-founder of unkey.dev and founder of planetfall.io",
   openGraph: {
-    title: "chronark.com",
+    title: "gustavo dev",
     description:
       "Co-founder of unkey.dev and founder of planetfall.io",
     url: "https://chronark.com",
-    siteName: "chronark.com",
+    siteName: "Gustavo Dev",
     images: [
       {
         url: "https://chronark.com/og.png",
